@@ -1,2 +1,0 @@
-Tick-tack-toe game
-@Educational project is developded by Alesya Samylova
